@@ -1,11 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1534106198872">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1534284336975">
   <folder name="css">
     <file name="site_global.css" crc="4058979593"/>
     <file name="curriculum.css" crc="495595096" ref="curriculum"/>
     <file name="nomq_curriculum.css" crc="334260342" ref="curriculum"/>
     <file name="memoire.css" crc="526958970" ref="memoire"/>
-    <file name="index.css" crc="3997203854" ref="index"/>
+    <file name="index.css" crc="384670497" ref="index"/>
     <file name="nomq_index.css" crc="289338501" ref="index"/>
+    <file name="iefonts_index.css" crc="3789430414" ref="index"/>
     <file name="portfolio.css" crc="129792235" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="3875535957" ref="portfolio"/>
   </folder>
@@ -27,7 +28,7 @@
     <file name="require.js" crc="4157109226" ref="index:portfolio:curriculum:memoire"/>
   </folder>
   <folder name="images">
-    <file name="2018-gabarit-favicon.ico" crc="3900574632" ref="index"/>
+    <file name="home-favicon.ico" crc="424699626" ref="index"/>
     <file name="u43626.png" crc="258115652" ref="index"/>
     <file name="u43626_2x.png" crc="67711701" ref="index"/>
     <file name="u43626-r.png" crc="368543876" ref="index"/>
@@ -61,6 +62,8 @@
     <file name="u48389-r2.png" crc="17298771" ref="index"/>
     <file name="u48389-r_2x2.png" crc="430559041" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio:curriculum"/>
+    <file name="portfolio-favicon.ico" crc="424699626" ref="portfolio"/>
+    <file name="curriculum-favicon.ico" crc="424699626" ref="curriculum"/>
     <file name="unity-logo-334cbb9e5012d791-512x512-u49001.png" crc="4025150162" ref="curriculum"/>
     <file name="unity-logo-334cbb9e5012d791-512x512-u49001_2x.png" crc="3777809630" ref="curriculum"/>
     <file name="e82ec225cade768ce3bf06f9e20b9df8--the-producers-eps-crop-u49025.png" crc="4172728944" seo="true" ref="curriculum">
@@ -105,7 +108,7 @@
     <file name="after-effects-u49110_2x2.png" crc="4273406177" ref="curriculum"/>
     <file name="premiere-u491262.png" crc="3909481099" ref="curriculum"/>
     <file name="premiere-u49126_2x2.png" crc="3879845601" ref="curriculum"/>
-    <file name="favicon.ico" crc="3900574632" ref="memoire"/>
+    <file name="favicon.ico" crc="424699626" ref="memoire"/>
     <file name="gif-(2).gif" crc="3899119325" seo="true" ref="memoire">
       <caption webpage="memoire" alt=""/>
     </file>
@@ -131,8 +134,8 @@
       <caption webpage="memoire" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3907935658" seo="true" mt="1534093127325" redirect="true"/>
-  <file name="portfolio.html" crc="25722519" seo="true" mt="1534035999299" redirect="true"/>
-  <file name="curriculum.html" crc="4004061169" seo="true" mt="1534101508114" redirect="true"/>
-  <file name="memoire.html" crc="510173977" seo="true" mt="1531959203141" redirect="true"/>
+  <file name="index.html" crc="4228951809" seo="true" mt="1534282876318" redirect="true"/>
+  <file name="portfolio.html" crc="447519331" seo="true" mt="1534035999299" redirect="true"/>
+  <file name="curriculum.html" crc="91966740" seo="true" mt="1534284246709" redirect="true"/>
+  <file name="memoire.html" crc="4155083949" seo="true" mt="1531959203141" redirect="true"/>
 </manifest>
