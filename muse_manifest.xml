@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1534284336975">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1534297307266">
   <folder name="css">
     <file name="site_global.css" crc="4058979593"/>
-    <file name="curriculum.css" crc="495595096" ref="curriculum"/>
-    <file name="nomq_curriculum.css" crc="334260342" ref="curriculum"/>
+    <file name="curriculum.css" crc="62922347" ref="curriculum"/>
+    <file name="nomq_curriculum.css" crc="4096139151" ref="curriculum"/>
     <file name="memoire.css" crc="526958970" ref="memoire"/>
-    <file name="index.css" crc="384670497" ref="index"/>
-    <file name="nomq_index.css" crc="289338501" ref="index"/>
+    <file name="index.css" crc="3957678416" ref="index"/>
+    <file name="nomq_index.css" crc="3893569281" ref="index"/>
     <file name="iefonts_index.css" crc="3789430414" ref="index"/>
     <file name="portfolio.css" crc="129792235" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="3875535957" ref="portfolio"/>
@@ -64,50 +64,10 @@
     <file name="blank.gif" crc="4208392903" ref="index:portfolio:curriculum"/>
     <file name="portfolio-favicon.ico" crc="424699626" ref="portfolio"/>
     <file name="curriculum-favicon.ico" crc="424699626" ref="curriculum"/>
-    <file name="unity-logo-334cbb9e5012d791-512x512-u49001.png" crc="4025150162" ref="curriculum"/>
-    <file name="unity-logo-334cbb9e5012d791-512x512-u49001_2x.png" crc="3777809630" ref="curriculum"/>
-    <file name="e82ec225cade768ce3bf06f9e20b9df8--the-producers-eps-crop-u49025.png" crc="4172728944" seo="true" ref="curriculum">
-      <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="e82ec225cade768ce3bf06f9e20b9df8--the-producers-eps-crop-u49025_2x.png" crc="367135211" seo="true" ref="curriculum">
-      <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="marvelousdesigner-u49038.png" crc="3997490420" ref="curriculum"/>
-    <file name="marvelousdesigner-u49038_2x.png" crc="3855609869" ref="curriculum"/>
-    <file name="quixel_suite_2-u49054.png" crc="502505160" ref="curriculum"/>
-    <file name="quixel_suite_2-u49054_2x.png" crc="508070509" ref="curriculum"/>
-    <file name="photoshop-u49078.png" crc="461481209" ref="curriculum"/>
-    <file name="photoshop-u49078_2x.png" crc="4200025570" ref="curriculum"/>
-    <file name="indesign-u49094.png" crc="4282673964" ref="curriculum"/>
-    <file name="indesign-u49094_2x.png" crc="533380169" ref="curriculum"/>
-    <file name="after-effects-u49110.png" crc="3889677224" ref="curriculum"/>
-    <file name="after-effects-u49110_2x.png" crc="4273406177" ref="curriculum"/>
-    <file name="premiere-u49126.png" crc="3909481099" ref="curriculum"/>
-    <file name="premiere-u49126_2x.png" crc="3879845601" ref="curriculum"/>
     <file name="u27403-121.png" crc="19839620" ref="curriculum"/>
     <file name="u27403-121_2x.png" crc="427342517" ref="curriculum"/>
     <file name="u27402-73.png" crc="3954860368" ref="curriculum"/>
     <file name="u27402-73_2x.png" crc="3806012036" ref="curriculum"/>
-    <file name="unity-logo-334cbb9e5012d791-512x512-u490012.png" crc="4025150162" ref="curriculum"/>
-    <file name="unity-logo-334cbb9e5012d791-512x512-u49001_2x2.png" crc="3777809630" ref="curriculum"/>
-    <file name="e82ec225cade768ce3bf06f9e20b9df8--the-producers-eps38x38.png" crc="92458111" seo="true" ref="curriculum">
-      <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="e82ec225cade768ce3bf06f9e20b9df8--the-producers-eps38x38_2x.png" crc="319995621" seo="true" ref="curriculum">
-      <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="marvelousdesigner-u490382.png" crc="3997490420" ref="curriculum"/>
-    <file name="marvelousdesigner-u49038_2x2.png" crc="3855609869" ref="curriculum"/>
-    <file name="quixel_suite_2-u490542.png" crc="502505160" ref="curriculum"/>
-    <file name="quixel_suite_2-u49054_2x2.png" crc="508070509" ref="curriculum"/>
-    <file name="photoshop-u490782.png" crc="461481209" ref="curriculum"/>
-    <file name="photoshop-u49078_2x2.png" crc="4200025570" ref="curriculum"/>
-    <file name="indesign-u490942.png" crc="4282673964" ref="curriculum"/>
-    <file name="indesign-u49094_2x2.png" crc="533380169" ref="curriculum"/>
-    <file name="after-effects-u491102.png" crc="3889677224" ref="curriculum"/>
-    <file name="after-effects-u49110_2x2.png" crc="4273406177" ref="curriculum"/>
-    <file name="premiere-u491262.png" crc="3909481099" ref="curriculum"/>
-    <file name="premiere-u49126_2x2.png" crc="3879845601" ref="curriculum"/>
     <file name="favicon.ico" crc="424699626" ref="memoire"/>
     <file name="gif-(2).gif" crc="3899119325" seo="true" ref="memoire">
       <caption webpage="memoire" alt=""/>
@@ -133,9 +93,49 @@
     <file name="induscult.jpg" crc="66761965" seo="true" ref="memoire">
       <caption webpage="memoire" alt=""/>
     </file>
+    <file name="unity-logo-334cbb9e5012d791-512x512.svg" crc="22346411" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="unity-logo-334cbb9e5012d791-512x512_poster_.png" crc="4238487160" ref="curriculum"/>
+    <file name="e82ec225cade768ce3bf06f9e20b9df8--the-producers-eps.svg" crc="372865387" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="e82ec225cade768ce3bf06f9e20b9df8--the-producers-eps_poster_.png" crc="349305006" ref="curriculum"/>
+    <file name="marvelousdesigner.svg" crc="3770489064" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="marvelousdesigner_poster_.png" crc="4091532416" ref="curriculum"/>
+    <file name="quixel_suite_2.svg" crc="3777166040" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="quixel_suite_2_poster_.png" crc="4111389758" ref="curriculum"/>
+    <file name="photoshop.svg" crc="534272296" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="photoshop_poster_.png" crc="3982660093" ref="curriculum"/>
+    <file name="indesign.svg" crc="246078880" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="indesign_poster_.png" crc="3945326117" ref="curriculum"/>
+    <file name="after-effects.svg" crc="4134820021" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="after-effects_poster_.png" crc="154973665" ref="curriculum"/>
+    <file name="premiere.svg" crc="264860061" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="premiere_poster_.png" crc="3998860765" ref="curriculum"/>
   </folder>
-  <file name="index.html" crc="4228951809" seo="true" mt="1534282876318" redirect="true"/>
+  <file name="index.html" crc="3810161875" seo="true" mt="1534295231085" redirect="true"/>
   <file name="portfolio.html" crc="447519331" seo="true" mt="1534035999299" redirect="true"/>
-  <file name="curriculum.html" crc="91966740" seo="true" mt="1534284246709" redirect="true"/>
+  <file name="curriculum.html" crc="105448261" seo="true" mt="1534297287779" redirect="true"/>
   <file name="memoire.html" crc="4155083949" seo="true" mt="1531959203141" redirect="true"/>
 </manifest>
