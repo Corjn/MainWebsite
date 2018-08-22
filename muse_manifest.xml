@@ -1,4 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1534972047892">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1534973782681">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3954843017" ref="phone>index"/>
+      <file name="curriculum.css" crc="3919984330" ref="phone>curriculum"/>
+      <file name="nomq_curriculum.css" crc="3824530138" ref="phone>curriculum"/>
+      <file name="portfolio.css" crc="3919984330" ref="phone>portfolio"/>
+      <file name="memoire.css" crc="62426684" ref="phone>memoire"/>
+      <file name="nomq_memoire.css" crc="3824530138" ref="phone>memoire"/>
+    </folder>
+    <file name="index.html" crc="98413571" seo="true" mt="1534973715354" redirect="false"/>
+    <file name="portfolio.html" crc="3980277853" seo="true" mt="1534973715462" redirect="false"/>
+    <file name="curriculum.html" crc="3772456752" seo="true" mt="1534973715494" redirect="false"/>
+    <file name="memoire.html" crc="4205609344" seo="true" mt="1534973715527" redirect="false"/>
+  </folder>
   <folder name="assets">
     <file name="disabler_qooqee_widgets.mulib" crc="4191540390" seo="true" mt="1427664054000"/>
   </folder>
@@ -6,11 +20,11 @@
     <file name="site_global.css" crc="4058979593"/>
     <file name="curriculum.css" crc="535867507" ref="curriculum"/>
     <file name="nomq_curriculum.css" crc="50579038" ref="curriculum"/>
-    <file name="memoire.css" crc="526958970" ref="memoire"/>
+    <file name="memoire.css" crc="125569165" ref="memoire"/>
     <file name="index.css" crc="3881739109" ref="index"/>
     <file name="nomq_index.css" crc="4194316740" ref="index"/>
     <file name="iefonts_index.css" crc="3789430414" ref="index"/>
-    <file name="portfolio.css" crc="4165240594" ref="portfolio"/>
+    <file name="portfolio.css" crc="257848060" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="45544394" ref="portfolio"/>
   </folder>
   <folder name="fonts">
@@ -18,20 +32,20 @@
     <file name="futuralt.eot" crc="343317069"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:curriculum:memoire"/>
-    <file name="museutils.js" crc="3803043152" ref="index:portfolio:curriculum:memoire"/>
-    <file name="whatinput.js" crc="86476730" ref="index:portfolio:curriculum:memoire"/>
-    <file name="museconfig.js" crc="380897831" ref="index:portfolio:curriculum:memoire"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:curriculum:memoire:phone>index:phone>portfolio:phone>curriculum:phone>memoire"/>
+    <file name="museutils.js" crc="3803043152" ref="index:portfolio:curriculum:memoire:phone>index:phone>portfolio:phone>curriculum:phone>memoire"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:curriculum:memoire:phone>index:phone>portfolio:phone>curriculum:phone>memoire"/>
+    <file name="museconfig.js" crc="380897831" ref="index:portfolio:curriculum:memoire:phone>index:phone>portfolio:phone>curriculum:phone>memoire"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:portfolio:curriculum:memoire"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:portfolio:curriculum:memoire:phone>index:phone>portfolio:phone>curriculum:phone>memoire"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:portfolio:curriculum"/>
-    <file name="require.js" crc="4157109226" ref="index:portfolio:curriculum:memoire"/>
+    <file name="require.js" crc="4157109226" ref="index:portfolio:curriculum:memoire:phone>index:phone>portfolio:phone>curriculum:phone>memoire"/>
   </folder>
   <folder name="images">
-    <file name="home-favicon.ico" crc="424699626" ref="index"/>
+    <file name="home-favicon.ico" crc="3924385225" ref="phone>index"/>
     <file name="u43626.png" crc="258115652" ref="index"/>
     <file name="u43626_2x.png" crc="67711701" ref="index"/>
     <file name="u43626-r.png" crc="368543876" ref="index"/>
@@ -49,9 +63,9 @@
     <file name="u43630-r.png" crc="4052662835" ref="index"/>
     <file name="u43630-r_2x.png" crc="4071536130" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio:curriculum"/>
-    <file name="portfolio-favicon.ico" crc="424699626" ref="portfolio"/>
-    <file name="curriculum-favicon.ico" crc="424699626" ref="curriculum"/>
-    <file name="favicon.ico" crc="424699626" ref="memoire"/>
+    <file name="portfolio-favicon.ico" crc="3924385225" ref="phone>portfolio"/>
+    <file name="curriculum-favicon.ico" crc="3924385225" ref="phone>curriculum"/>
+    <file name="favicon.ico" crc="3924385225" ref="phone>memoire"/>
     <file name="gif-(2).gif" crc="3899119325" seo="true" ref="memoire">
       <caption webpage="memoire" alt=""/>
     </file>
@@ -139,8 +153,8 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="450198462" seo="true" mt="1534961244747" redirect="true"/>
-  <file name="portfolio.html" crc="81603715" seo="true" mt="1534956797098" redirect="true"/>
-  <file name="curriculum.html" crc="114004949" seo="true" mt="1534971998950" redirect="true"/>
-  <file name="memoire.html" crc="4155083949" seo="true" mt="1531959203141" redirect="true"/>
+  <file name="index.html" crc="279207123" seo="true" mt="1534973715853" redirect="true"/>
+  <file name="portfolio.html" crc="4282249818" seo="true" mt="1534973715895" redirect="true"/>
+  <file name="curriculum.html" crc="3911096052" seo="true" mt="1534973715975" redirect="true"/>
+  <file name="memoire.html" crc="4080337891" seo="true" mt="1534973716020" redirect="true"/>
 </manifest>
