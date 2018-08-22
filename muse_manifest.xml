@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1534961288954">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1534972047892">
   <folder name="assets">
     <file name="disabler_qooqee_widgets.mulib" crc="4191540390" seo="true" mt="1427664054000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4058979593"/>
-    <file name="curriculum.css" crc="62922347" ref="curriculum"/>
-    <file name="nomq_curriculum.css" crc="4096139151" ref="curriculum"/>
+    <file name="curriculum.css" crc="535867507" ref="curriculum"/>
+    <file name="nomq_curriculum.css" crc="50579038" ref="curriculum"/>
     <file name="memoire.css" crc="526958970" ref="memoire"/>
     <file name="index.css" crc="3881739109" ref="index"/>
     <file name="nomq_index.css" crc="4194316740" ref="index"/>
@@ -51,10 +51,6 @@
     <file name="blank.gif" crc="4208392903" ref="index:portfolio:curriculum"/>
     <file name="portfolio-favicon.ico" crc="424699626" ref="portfolio"/>
     <file name="curriculum-favicon.ico" crc="424699626" ref="curriculum"/>
-    <file name="u27403-121.png" crc="19839620" ref="curriculum"/>
-    <file name="u27403-121_2x.png" crc="427342517" ref="curriculum"/>
-    <file name="u27402-73.png" crc="3954860368" ref="curriculum"/>
-    <file name="u27402-73_2x.png" crc="3806012036" ref="curriculum"/>
     <file name="favicon.ico" crc="424699626" ref="memoire"/>
     <file name="gif-(2).gif" crc="3899119325" seo="true" ref="memoire">
       <caption webpage="memoire" alt=""/>
@@ -145,6 +141,6 @@
   </folder>
   <file name="index.html" crc="450198462" seo="true" mt="1534961244747" redirect="true"/>
   <file name="portfolio.html" crc="81603715" seo="true" mt="1534956797098" redirect="true"/>
-  <file name="curriculum.html" crc="508801030" seo="true" mt="1534297471738" redirect="true"/>
+  <file name="curriculum.html" crc="114004949" seo="true" mt="1534971998950" redirect="true"/>
   <file name="memoire.html" crc="4155083949" seo="true" mt="1531959203141" redirect="true"/>
 </manifest>
