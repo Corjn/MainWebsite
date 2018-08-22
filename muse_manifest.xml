@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1534297495443">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1534959494319">
   <folder name="css">
-    <file name="site_global.css" crc="4058979593"/>
+    <file name="site_global.css" crc="4137177438"/>
     <file name="curriculum.css" crc="62922347" ref="curriculum"/>
     <file name="nomq_curriculum.css" crc="4096139151" ref="curriculum"/>
     <file name="memoire.css" crc="526958970" ref="memoire"/>
-    <file name="index.css" crc="3957678416" ref="index"/>
-    <file name="nomq_index.css" crc="3893569281" ref="index"/>
+    <file name="index.css" crc="4072670544" ref="index"/>
+    <file name="nomq_index.css" crc="7990547" ref="index"/>
     <file name="iefonts_index.css" crc="3789430414" ref="index"/>
-    <file name="portfolio.css" crc="129792235" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="3875535957" ref="portfolio"/>
+    <file name="portfolio.css" crc="4165240594" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="45544394" ref="portfolio"/>
   </folder>
   <folder name="fonts">
     <file name="futuralt.woff" crc="3761841420"/>
@@ -45,22 +45,6 @@
     <file name="u43630_2x.png" crc="357720263" ref="index"/>
     <file name="u43630-r.png" crc="4052662835" ref="index"/>
     <file name="u43630-r_2x.png" crc="4071536130" ref="index"/>
-    <file name="u436262.png" crc="314332579" ref="index"/>
-    <file name="u43626_2x2.png" crc="3865622770" ref="index"/>
-    <file name="u43626-r2.png" crc="4189496794" ref="index"/>
-    <file name="u43626-r_2x2.png" crc="3926294342" ref="index"/>
-    <file name="u436282.png" crc="4120175049" ref="index"/>
-    <file name="u43628_2x2.png" crc="3948281245" ref="index"/>
-    <file name="u43628-r2.png" crc="385538381" ref="index"/>
-    <file name="u43628-r_2x2.png" crc="466953843" ref="index"/>
-    <file name="u436302.png" crc="3869457351" ref="index"/>
-    <file name="u43630_2x2.png" crc="263920501" ref="index"/>
-    <file name="u43630-r2.png" crc="258479448" ref="index"/>
-    <file name="u43630-r_2x2.png" crc="4153125144" ref="index"/>
-    <file name="u483892.png" crc="4058703849" ref="index"/>
-    <file name="u48389_2x2.png" crc="3779614262" ref="index"/>
-    <file name="u48389-r2.png" crc="17298771" ref="index"/>
-    <file name="u48389-r_2x2.png" crc="430559041" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio:curriculum"/>
     <file name="portfolio-favicon.ico" crc="424699626" ref="portfolio"/>
     <file name="curriculum-favicon.ico" crc="424699626" ref="curriculum"/>
@@ -133,9 +117,31 @@
       <caption webpage="curriculum" alt=""/>
     </file>
     <file name="premiere_poster_.png" crc="3998860765" ref="curriculum"/>
+    <file name="logo.jpg" crc="3891881302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_2x.jpg" crc="306192547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u49843.png" crc="314332579" ref="index"/>
+    <file name="u49843_2x.png" crc="3865622770" ref="index"/>
+    <file name="u49843-r.png" crc="4189496794" ref="index"/>
+    <file name="u49843-r_2x.png" crc="3926294342" ref="index"/>
+    <file name="u49849.png" crc="4120175049" ref="index"/>
+    <file name="u49849_2x.png" crc="3948281245" ref="index"/>
+    <file name="u49849-r.png" crc="385538381" ref="index"/>
+    <file name="u49849-r_2x.png" crc="466953843" ref="index"/>
+    <file name="u49847.png" crc="4058703849" ref="index"/>
+    <file name="u49847_2x.png" crc="3779614262" ref="index"/>
+    <file name="u49847-r.png" crc="17298771" ref="index"/>
+    <file name="u49847-r_2x.png" crc="430559041" ref="index"/>
+    <file name="u49845.png" crc="310028309" ref="index"/>
+    <file name="u49845_2x.png" crc="4019297034" ref="index"/>
+    <file name="u49845-r.png" crc="3888890966" ref="index"/>
+    <file name="u49845-r_2x.png" crc="268521136" ref="index"/>
   </folder>
-  <file name="index.html" crc="3810161875" seo="true" mt="1534295231085" redirect="true"/>
-  <file name="portfolio.html" crc="447519331" seo="true" mt="1534035999299" redirect="true"/>
+  <file name="index.html" crc="352646380" seo="true" mt="1534959380987" redirect="true"/>
+  <file name="portfolio.html" crc="81603715" seo="true" mt="1534956797098" redirect="true"/>
   <file name="curriculum.html" crc="508801030" seo="true" mt="1534297471738" redirect="true"/>
   <file name="memoire.html" crc="4155083949" seo="true" mt="1531959203141" redirect="true"/>
 </manifest>
