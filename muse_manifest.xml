@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1534974633508">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1535495367724">
   <folder name="assets">
     <file name="disabler_qooqee_widgets.mulib" crc="4191540390" seo="true" mt="1427664054000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4058979593"/>
-    <file name="curriculum.css" crc="535867507" ref="curriculum"/>
-    <file name="nomq_curriculum.css" crc="50579038" ref="curriculum"/>
+    <file name="curriculum.css" crc="22577129" ref="curriculum"/>
+    <file name="nomq_curriculum.css" crc="3925297626" ref="curriculum"/>
     <file name="memoire.css" crc="125569165" ref="memoire"/>
     <file name="index.css" crc="3881739109" ref="index"/>
     <file name="nomq_index.css" crc="4194316740" ref="index"/>
@@ -141,6 +141,6 @@
   </folder>
   <file name="index.html" crc="450198462" seo="true" mt="1534974355742" redirect="true"/>
   <file name="portfolio.html" crc="4280304430" seo="true" mt="1534974355740" redirect="true"/>
-  <file name="curriculum.html" crc="114004949" seo="true" mt="1534974478426" redirect="true"/>
+  <file name="curriculum.html" crc="348863302" seo="true" mt="1535495320059" redirect="true"/>
   <file name="memoire.html" crc="140327174" seo="true" mt="1534974355736" redirect="true"/>
 </manifest>
