@@ -1,27 +1,23 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1537295764892">
-  <folder name="assets">
-    <file name="disabler_qooqee_widgets.mulib" crc="4191540390" seo="true" mt="1427664054000"/>
-  </folder>
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1544411584600">
   <folder name="css">
     <file name="site_global.css" crc="4058979593"/>
-    <file name="curriculum.css" crc="449330726" ref="curriculum"/>
-    <file name="nomq_curriculum.css" crc="3925297626" ref="curriculum"/>
-    <file name="memoire.css" crc="125569165" ref="memoire"/>
-    <file name="index.css" crc="4041546526" ref="index"/>
-    <file name="nomq_index.css" crc="4194316740" ref="index"/>
+    <file name="index.css" crc="348427131" ref="index"/>
+    <file name="nomq_index.css" crc="3982078548" ref="index"/>
     <file name="iefonts_index.css" crc="3789430414" ref="index"/>
-    <file name="portfolio.css" crc="43415618" ref="portfolio"/>
+    <file name="portfolio.css" crc="293759103" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="3964317533" ref="portfolio"/>
+    <file name="curriculum.css" crc="237465047" ref="curriculum"/>
+    <file name="nomq_curriculum.css" crc="3925297626" ref="curriculum"/>
+    <file name="memoire.css" crc="4184712515" ref="memoire"/>
   </folder>
-  <folder name="fonts">
-    <file name="futuralt.woff" crc="3761841420"/>
-    <file name="futuralt.eot" crc="343317069"/>
+  <folder name="assets">
+    <file name="disabler_qooqee_widgets.mulib" crc="4191540390" seo="true" mt="1427664054000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:curriculum:memoire"/>
     <file name="museutils.js" crc="3803043152" ref="index:portfolio:curriculum:memoire"/>
     <file name="whatinput.js" crc="86476730" ref="index:portfolio:curriculum:memoire"/>
-    <file name="museconfig.js" crc="380897831" ref="index:portfolio:curriculum:memoire"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:portfolio:curriculum:memoire"/>
     <file name="webpro.js" crc="242022427" ref="index:portfolio"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index:portfolio"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index:portfolio"/>
@@ -48,9 +44,71 @@
     <file name="u43630_2x.png" crc="357720263" ref="index"/>
     <file name="u43630-r.png" crc="4052662835" ref="index"/>
     <file name="u43630-r_2x.png" crc="4071536130" ref="index"/>
+    <file name="capdfesfdrgdsgvture-crop-u50314.jpg" crc="3871082338" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="capdfesfdrgdsgvture-crop-u50314_2x.jpg" crc="4000655474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u49843.png" crc="255316567" ref="index"/>
+    <file name="u49843_2x.png" crc="3831188150" ref="index"/>
+    <file name="u49843-r.png" crc="220834452" ref="index"/>
+    <file name="u49843-r_2x.png" crc="3826265876" ref="index"/>
+    <file name="u49849.png" crc="4120175049" ref="index"/>
+    <file name="u49849_2x.png" crc="3948281245" ref="index"/>
+    <file name="u49849-r.png" crc="385538381" ref="index"/>
+    <file name="u49849-r_2x.png" crc="466953843" ref="index"/>
+    <file name="u49847.png" crc="4058703849" ref="index"/>
+    <file name="u49847_2x.png" crc="3779614262" ref="index"/>
+    <file name="u49847-r.png" crc="17298771" ref="index"/>
+    <file name="u49847-r_2x.png" crc="430559041" ref="index"/>
+    <file name="u49845.png" crc="310028309" ref="index"/>
+    <file name="u49845_2x.png" crc="4019297034" ref="index"/>
+    <file name="u49845-r.png" crc="3888890966" ref="index"/>
+    <file name="u49845-r_2x.png" crc="268521136" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio:curriculum"/>
     <file name="portfolio-favicon.ico" crc="424699626" ref="portfolio"/>
     <file name="curriculum-favicon.ico" crc="424699626" ref="curriculum"/>
+    <file name="unity-logo-334cbb9e5012d791-512x512.svg" crc="22346411" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="unity-logo-334cbb9e5012d791-512x512_poster_.png" crc="4238487160" ref="curriculum"/>
+    <file name="e82ec225cade768ce3bf06f9e20b9df8--the-producers-eps.svg" crc="372865387" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="e82ec225cade768ce3bf06f9e20b9df8--the-producers-eps_poster_.png" crc="349305006" ref="curriculum"/>
+    <file name="quixel_suite_2.svg" crc="3777166040" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="quixel_suite_2_poster_.png" crc="4111389758" ref="curriculum"/>
+    <file name="marvelousdesigner.svg" crc="3770489064" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="marvelousdesigner_poster_.png" crc="4091532416" ref="curriculum"/>
+    <file name="photoshop.svg" crc="534272296" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="photoshop_poster_.png" crc="3982660093" ref="curriculum"/>
+    <file name="indesign.svg" crc="246078880" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="indesign_poster_.png" crc="3945326117" ref="curriculum"/>
+    <file name="after-effects.svg" crc="4134820021" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="after-effects_poster_.png" crc="154973665" ref="curriculum"/>
+    <file name="premiere.svg" crc="264860061" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="premiere_poster_.png" crc="3998860765" ref="curriculum"/>
     <file name="favicon.ico" crc="424699626" ref="memoire"/>
     <file name="gif-(2).gif" crc="3899119325" seo="true" ref="memoire">
       <caption webpage="memoire" alt=""/>
@@ -76,71 +134,9 @@
     <file name="induscult.jpg" crc="66761965" seo="true" ref="memoire">
       <caption webpage="memoire" alt=""/>
     </file>
-    <file name="unity-logo-334cbb9e5012d791-512x512.svg" crc="22346411" seo="true" ref="curriculum">
-      <caption webpage="curriculum" alt=""/>
-      <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="unity-logo-334cbb9e5012d791-512x512_poster_.png" crc="4238487160" ref="curriculum"/>
-    <file name="e82ec225cade768ce3bf06f9e20b9df8--the-producers-eps.svg" crc="372865387" seo="true" ref="curriculum">
-      <caption webpage="curriculum" alt=""/>
-      <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="e82ec225cade768ce3bf06f9e20b9df8--the-producers-eps_poster_.png" crc="349305006" ref="curriculum"/>
-    <file name="marvelousdesigner.svg" crc="3770489064" seo="true" ref="curriculum">
-      <caption webpage="curriculum" alt=""/>
-      <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="marvelousdesigner_poster_.png" crc="4091532416" ref="curriculum"/>
-    <file name="quixel_suite_2.svg" crc="3777166040" seo="true" ref="curriculum">
-      <caption webpage="curriculum" alt=""/>
-      <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="quixel_suite_2_poster_.png" crc="4111389758" ref="curriculum"/>
-    <file name="photoshop.svg" crc="534272296" seo="true" ref="curriculum">
-      <caption webpage="curriculum" alt=""/>
-      <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="photoshop_poster_.png" crc="3982660093" ref="curriculum"/>
-    <file name="indesign.svg" crc="246078880" seo="true" ref="curriculum">
-      <caption webpage="curriculum" alt=""/>
-      <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="indesign_poster_.png" crc="3945326117" ref="curriculum"/>
-    <file name="after-effects.svg" crc="4134820021" seo="true" ref="curriculum">
-      <caption webpage="curriculum" alt=""/>
-      <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="after-effects_poster_.png" crc="154973665" ref="curriculum"/>
-    <file name="premiere.svg" crc="264860061" seo="true" ref="curriculum">
-      <caption webpage="curriculum" alt=""/>
-      <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="premiere_poster_.png" crc="3998860765" ref="curriculum"/>
-    <file name="u49843.png" crc="255316567" ref="index"/>
-    <file name="u49843_2x.png" crc="3831188150" ref="index"/>
-    <file name="u49843-r.png" crc="220834452" ref="index"/>
-    <file name="u49843-r_2x.png" crc="3826265876" ref="index"/>
-    <file name="u49849.png" crc="4120175049" ref="index"/>
-    <file name="u49849_2x.png" crc="3948281245" ref="index"/>
-    <file name="u49849-r.png" crc="385538381" ref="index"/>
-    <file name="u49849-r_2x.png" crc="466953843" ref="index"/>
-    <file name="u49847.png" crc="4058703849" ref="index"/>
-    <file name="u49847_2x.png" crc="3779614262" ref="index"/>
-    <file name="u49847-r.png" crc="17298771" ref="index"/>
-    <file name="u49847-r_2x.png" crc="430559041" ref="index"/>
-    <file name="u49845.png" crc="310028309" ref="index"/>
-    <file name="u49845_2x.png" crc="4019297034" ref="index"/>
-    <file name="u49845-r.png" crc="3888890966" ref="index"/>
-    <file name="u49845-r_2x.png" crc="268521136" ref="index"/>
-    <file name="capdfesfdrgdsgvture-crop-u50314.jpg" crc="3871082338" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="capdfesfdrgdsgvture-crop-u50314_2x.jpg" crc="4000655474" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="284921031" seo="true" mt="1537295756196" redirect="true"/>
-  <file name="portfolio.html" crc="3932417166" seo="true" mt="1536456956615" redirect="true"/>
-  <file name="curriculum.html" crc="396885017" seo="true" mt="1535561785483" redirect="true"/>
-  <file name="memoire.html" crc="140327174" seo="true" mt="1534974355736" redirect="true"/>
+  <file name="index.html" crc="4273533869" seo="true" mt="1544411171402" redirect="true"/>
+  <file name="portfolio.html" crc="4214339181" seo="true" mt="1536456956615" redirect="true"/>
+  <file name="curriculum.html" crc="241878799" seo="true" mt="1535561785483" redirect="true"/>
+  <file name="memoire.html" crc="371804628" seo="true" mt="1534974355736" redirect="true"/>
 </manifest>
