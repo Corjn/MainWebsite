@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1553780667164">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1555161762011">
   <folder name="css">
-    <file name="site_global.css" crc="3965169406"/>
+    <file name="site_global.css" crc="4058979593"/>
     <file name="index.css" crc="348427131" ref="index"/>
     <file name="nomq_index.css" crc="3982078548" ref="index"/>
     <file name="iefonts_index.css" crc="3789430414" ref="index"/>
     <file name="portfolio.css" crc="293759103" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="3964317533" ref="portfolio"/>
-    <file name="curriculum.css" crc="412605531" ref="curriculum"/>
-    <file name="nomq_curriculum.css" crc="3834144359" ref="curriculum"/>
+    <file name="curriculum.css" crc="62372115" ref="curriculum"/>
+    <file name="nomq_curriculum.css" crc="187033426" ref="curriculum"/>
     <file name="memoire.css" crc="4184712515" ref="memoire"/>
   </folder>
   <folder name="assets">
@@ -134,9 +134,21 @@
     <file name="induscult.jpg" crc="66761965" seo="true" ref="memoire">
       <caption webpage="memoire" alt=""/>
     </file>
+    <file name="57039849_346064429601988_5141572695128801280_n145x146.jpg" crc="36402515" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="57039849_346064429601988_5141572695128801280_n145x146_2x.jpg" crc="4282011742" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="57039849_346064429601988_5141572695128801280_n.jpg" crc="4125984463" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+    </file>
+    <file name="57039849_346064429601988_5141572695128801280_n_2x.jpg" crc="4189669687" seo="true" ref="curriculum">
+      <caption webpage="curriculum" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4273533869" seo="true" mt="1544411171402" redirect="true"/>
   <file name="portfolio.html" crc="4214339181" seo="true" mt="1536456956615" redirect="true"/>
-  <file name="curriculum.html" crc="4084775618" seo="true" mt="1553780623062" redirect="true"/>
+  <file name="curriculum.html" crc="72796352" seo="true" mt="1555161728351" redirect="true"/>
   <file name="memoire.html" crc="371804628" seo="true" mt="1534974355736" redirect="true"/>
 </manifest>

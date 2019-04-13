@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>http://corjn.com/curriculum.html</loc>
-    <lastmod>2019-03-28</lastmod>
+    <lastmod>2019-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -46,6 +46,18 @@
     </image:image>
     <image:image>
       <image:loc>http://corjn.com/images/premiere.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://corjn.com/images/57039849_346064429601988_5141572695128801280_n145x146.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://corjn.com/images/57039849_346064429601988_5141572695128801280_n145x146_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://corjn.com/images/57039849_346064429601988_5141572695128801280_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://corjn.com/images/57039849_346064429601988_5141572695128801280_n_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
