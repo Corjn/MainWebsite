@@ -1,0 +1,145 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="corjn.com,www.corjn.com" resolutions="1x,2x" timestamp="1509102919503">
+  <folder name="css">
+    <file name="site_global.css" crc="269325977"/>
+    <file name="master_a-gabarit.css" crc="4203969983" ref="portfolio:the-great-disaster:curriculum:dead-moves-above:games:your-body-in-a-box:blog--video:blog--painting:blog:blog--commissioned:index:hologram-away"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="57640940" ref="portfolio:the-great-disaster:curriculum:dead-moves-above:games:your-body-in-a-box:blog--video:blog--painting:blog:blog--commissioned:index:hologram-away"/>
+    <file name="portfolio.css" crc="3981557648" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="377682050" ref="portfolio"/>
+    <file name="the-great-disaster.css" crc="3773903646" ref="the-great-disaster"/>
+    <file name="nomq_the-great-disaster.css" crc="4188577179" ref="the-great-disaster"/>
+    <file name="curriculum.css" crc="58014325" ref="curriculum"/>
+    <file name="nomq_curriculum.css" crc="332046878" ref="curriculum"/>
+    <file name="dead-moves-above.css" crc="312836433" ref="dead-moves-above"/>
+    <file name="nomq_dead-moves-above.css" crc="424854266" ref="dead-moves-above"/>
+    <file name="games.css" crc="132606088" ref="games"/>
+    <file name="nomq_games.css" crc="3863254072" ref="games"/>
+    <file name="your-body-in-a-box.css" crc="248046312" ref="your-body-in-a-box"/>
+    <file name="nomq_your-body-in-a-box.css" crc="3768206315" ref="your-body-in-a-box"/>
+    <file name="blog--video.css" crc="58492467" ref="blog--video"/>
+    <file name="nomq_blog--video.css" crc="411833576" ref="blog--video"/>
+    <file name="memoire.css" crc="302849604" ref="memoire"/>
+    <file name="blog--painting.css" crc="342736367" ref="blog--painting"/>
+    <file name="nomq_blog--painting.css" crc="3939616854" ref="blog--painting"/>
+    <file name="blog.css" crc="4228409349" ref="blog"/>
+    <file name="nomq_blog.css" crc="3854815430" ref="blog"/>
+    <file name="blog--commissioned.css" crc="19500067" ref="blog--commissioned"/>
+    <file name="nomq_blog--commissioned.css" crc="420521644" ref="blog--commissioned"/>
+    <file name="index.css" crc="128803266" ref="index"/>
+    <file name="nomq_index.css" crc="116755786" ref="index"/>
+    <file name="hologram-away.css" crc="4106568760" ref="hologram-away"/>
+    <file name="nomq_hologram-away.css" crc="4176826650" ref="hologram-away"/>
+  </folder>
+  <folder name="fonts">
+    <file name="futuralt.woff" crc="3761841420"/>
+    <file name="futuralt.eot" crc="343317069"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box:memoire"/>
+    <file name="museutils.js" crc="3851988764" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box:memoire"/>
+    <file name="whatinput.js" crc="86476730" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box:memoire"/>
+    <file name="museconfig.js" crc="4242129463" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box:memoire"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box:memoire"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="blog:games"/>
+    <file name="webpro.js" crc="4067903014" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="require.js" crc="4108833657" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box:memoire"/>
+  </folder>
+  <folder name="images">
+    <file name="a-gabarit-favicon.ico" crc="3900574632" ref="blog"/>
+    <file name="blank.gif" crc="4208392903" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37119.png" crc="4089493973" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37119_2x.png" crc="3772849025" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37119-r.png" crc="3923946661" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37119-r_2x.png" crc="4024622752" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37115.png" crc="4115749070" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37115_2x.png" crc="422601758" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37115-r.png" crc="3926847844" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37115-r_2x.png" crc="379391100" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37117.png" crc="446437335" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37117_2x.png" crc="4264838460" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37117-r.png" crc="4292418561" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37117-r_2x.png" crc="4266883296" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37121.png" crc="3765981197" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37121_2x.png" crc="4089836200" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37121-r.png" crc="3862225609" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37121-r_2x.png" crc="4188857647" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37123.png" crc="435576065" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37123_2x.png" crc="512817523" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37123-r.png" crc="152220120" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37123-r_2x.png" crc="266268582" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="logo-crop-u37125.png" crc="20917162" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="logo-crop-u37125_2x.png" crc="3839237346" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="14595676_1111544465608060_5641791297444786996_n38x38.jpg" crc="3984410995" seo="true" ref="blog"/>
+    <file name="14595676_1111544465608060_5641791297444786996_n38x38_2x.jpg" crc="384040780" seo="true" ref="blog"/>
+    <file name="threelines-accordionu37633-fr.png" crc="164986140" ref="blog:games"/>
+    <file name="threelines.png" crc="169324221" ref="blog:games"/>
+    <file name="u37652.png" crc="3793786187" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37652_2x.png" crc="4063644706" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37652-r.png" crc="468643997" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37652-r_2x.png" crc="484637468" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37658.png" crc="62906458" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37658_2x.png" crc="147206573" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37658-r.png" crc="448656827" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37658-r_2x.png" crc="4143873326" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37654.png" crc="100119877" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37654_2x.png" crc="62280432" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37654-r.png" crc="173273572" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37654-r_2x.png" crc="4265972024" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37656.png" crc="413618660" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37656_2x.png" crc="230123995" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37656-r.png" crc="4097284583" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37656-r_2x.png" crc="81492576" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37660.png" crc="167768963" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37660_2x.png" crc="348506648" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37660-r.png" crc="196843608" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="u37660-r_2x.png" crc="187109560" ref="blog:index:portfolio:curriculum:games:blog--video:blog--painting:blog--commissioned:hologram-away:the-great-disaster:dead-moves-above:your-body-in-a-box"/>
+    <file name="home-favicon.ico" crc="3900574632" ref="index"/>
+    <file name="14446468_10208988174035571_531078152_o-crop-u20521.jpg" crc="4161678168" ref="index"/>
+    <file name="14446468_10208988174035571_531078152_o-crop-u205212.jpg" crc="385908105" ref="index"/>
+    <file name="portfolio-favicon.ico" crc="3900574632" ref="portfolio"/>
+    <file name="curriculum-favicon.ico" crc="3900574632" ref="curriculum"/>
+    <file name="u25100-70.png" crc="3994763078" ref="curriculum"/>
+    <file name="u25100-70_2x.png" crc="387798855" ref="curriculum"/>
+    <file name="u24593-111.png" crc="4014516286" ref="curriculum"/>
+    <file name="u24593-111_2x.png" crc="171064833" ref="curriculum"/>
+    <file name="13620891_10208325968160838_3253003037746635727_n98x98.jpg" crc="3816508635" seo="true" ref="curriculum"/>
+    <file name="13620891_10208325968160838_3253003037746635727_n98x98_2x.jpg" crc="27893493" seo="true" ref="curriculum"/>
+    <file name="u27403-121.png" crc="197036896" ref="curriculum"/>
+    <file name="u27403-121_2x.png" crc="4070314820" ref="curriculum"/>
+    <file name="u27402-73.png" crc="145143784" ref="curriculum"/>
+    <file name="u27402-73_2x.png" crc="3922096332" ref="curriculum"/>
+    <file name="13620891_10208325968160838_3253003037746635727_n.jpg" crc="3794174366" seo="true" ref="curriculum"/>
+    <file name="13620891_10208325968160838_3253003037746635727_n_2x.jpg" crc="497314444" seo="true" ref="curriculum"/>
+    <file name="games-favicon.ico" crc="3900574632" ref="games"/>
+    <file name="blog--video-favicon.ico" crc="3900574632" ref="blog--video"/>
+    <file name="blog--painting-favicon.ico" crc="3900574632" ref="blog--painting"/>
+    <file name="blog--commissioned-favicon.ico" crc="3900574632" ref="blog--commissioned"/>
+    <file name="hologram-away-favicon.ico" crc="3900574632" ref="hologram-away"/>
+    <file name="the-great-disaster-favicon.ico" crc="3900574632" ref="the-great-disaster"/>
+    <file name="dead-moves-above-favicon.ico" crc="3900574632" ref="dead-moves-above"/>
+    <file name="your-body-in-a-box-favicon.ico" crc="3900574632" ref="your-body-in-a-box"/>
+    <file name="favicon.ico" crc="3900574632" ref="memoire"/>
+    <file name="gif-(2).gif" crc="3899119325" seo="true" ref="memoire"/>
+    <file name="maxresdefault.jpg" crc="403182892" seo="true" ref="memoire"/>
+    <file name="maxresdefault_2x.jpg" crc="184956833" seo="true" ref="memoire"/>
+    <file name="maxresdefsfefault.jpg" crc="94433698" seo="true" ref="memoire"/>
+    <file name="maxresdefsfefault_2x.jpg" crc="451132810" seo="true" ref="memoire"/>
+    <file name="tomb_raider_1_box.jpg" crc="3853483788" seo="true" ref="memoire"/>
+    <file name="durkheim.jpg" crc="323886951" seo="true" ref="memoire"/>
+    <file name="induscult.jpg" crc="215516833" seo="true" ref="memoire"/>
+  </folder>
+  <file name="blog.html" crc="3783469934" seo="true" mt="1481122437158" redirect="true"/>
+  <file name="index.html" crc="4120755877" seo="true" mt="1497804054223" redirect="true"/>
+  <file name="portfolio.html" crc="92740825" seo="true" mt="1481122437158" redirect="true"/>
+  <file name="curriculum.html" crc="243929560" seo="true" mt="1497727369827" redirect="true"/>
+  <file name="games.html" crc="3985057490" seo="true" mt="1481122437158" redirect="true"/>
+  <file name="blog--video.html" crc="3896240573" seo="true" mt="1481122437158" redirect="true"/>
+  <file name="blog--painting.html" crc="89387717" seo="true" mt="1481122437158" redirect="true"/>
+  <file name="blog--commissioned.html" crc="3906694983" seo="true" mt="1481122437158" redirect="true"/>
+  <file name="hologram-away.html" crc="29498255" seo="true" mt="1481125212781" redirect="true"/>
+  <file name="the-great-disaster.html" crc="4056452433" seo="true" mt="1481125224790" redirect="true"/>
+  <file name="dead-moves-above.html" crc="216487713" seo="true" mt="1481125259716" redirect="true"/>
+  <file name="your-body-in-a-box.html" crc="3873218133" seo="true" mt="1481125275814" redirect="true"/>
+  <file name="memoire.html" crc="320124695" seo="true" mt="1497804341532" redirect="true"/>
+</manifest>
