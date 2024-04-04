@@ -1540,6 +1540,7 @@
 .u-section-11 .u-btn-1 {
   line-height: 1.8;
   font-size: 1rem;
+  font-family: HelveticaNeue67MediumCondensed;
   padding: 0;
 }
 
@@ -1652,6 +1653,12 @@
 }
 
 .u-section-11 .u-btn-20 {
+  line-height: 1.8;
+  font-size: 1rem;
+  padding: 0;
+}
+
+.u-section-11 .u-btn-21 {
   line-height: 1.8;
   font-size: 1rem;
   padding: 0;
@@ -1775,6 +1782,10 @@
   }
 
   .u-section-11 .u-btn-20 {
+    font-size: 0.777778rem;
+  }
+
+  .u-section-11 .u-btn-21 {
     font-size: 0.777778rem;
   }
 }

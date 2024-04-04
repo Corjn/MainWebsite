@@ -735,7 +735,6 @@
 .u-section-6 .u-btn-1 {
   line-height: 1.8;
   font-family: HelveticaNeue97BlackCondensed;
-  font-size: 1rem;
   padding: 0;
 }
 
@@ -747,6 +746,13 @@
 }
 
 .u-section-6 .u-btn-3 {
+  line-height: 1.8;
+  font-family: HelveticaNeue97BlackCondensed;
+  font-size: 1rem;
+  padding: 0;
+}
+
+.u-section-6 .u-btn-4 {
   line-height: 1.8;
   font-family: HelveticaNeue97BlackCondensed;
   font-size: 1rem;
@@ -793,6 +799,10 @@
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 0.9;
   }
+
+  .u-section-6 .u-btn-1 {
+    font-size: 1rem;
+  }
 }
 
 @media (max-width: 991px) {
@@ -836,6 +846,10 @@
   }
 
   .u-section-6 .u-btn-3 {
+    font-size: 0.777778rem;
+  }
+
+  .u-section-6 .u-btn-4 {
     font-size: 0.777778rem;
   }
 }
